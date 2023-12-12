@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<centre>
+<table border ="2px"bg color= "Aqua" width="550px"cellspacing>
+ <tr>
+  <th scope ="col"> student ID </th>
+  <th> Student Name</th>
+  <th scope="col">Email </th>
+  <th scope ="col">Profile photo</th>
+ </tr>
+  <tr>
+   <td> 123 </td>
+   <td> ABC</td>
+   <td> abc@gmail.com</td>
+   <td> <img src="https://www.w3schools.com/howto/img_avatar2.png" width ="150px" height="150px">  </td>
+  </tr>
+  <tr>
+   <td> 456 </td>
+   <td> DEF </td>
+   <td> def@gmail.com </td>
+   <td> <img src="https://www.w3schools.com/howto/img_avatar.png" width="150px" heght="150px"> </td>
+   </tr>
+   <tr>
+    <td>987</td>
+    <td>bfc</td>
+    <td> fes@gmail.com</td>
+    <td> <img src="https://www.w3schools.com/w3images/avatar2.png"width="150" height="150"> </td>
+    </tr>
+ </table>
+ <iframe src=""> </iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/pteDnAUDWpI?si=FhJwIrSrA3dMAtCW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ "<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d26135.553044265274!2d135.7627007617798!3d35.033127563288375!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001085a40096db1%3A0x8c895182522ac6d1!2sThe%20Kyoto%20College%20of%20Graduate%20Studies%20for%20Informatics!5e0!3m2!1sen!2sjp!4v1702360286599!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+ 
+ 
+ 
+ 
+ 
+ 
+</centre>
+</body>
+</head>
+</html>
